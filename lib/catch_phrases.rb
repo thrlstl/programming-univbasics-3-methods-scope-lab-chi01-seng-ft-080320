@@ -12,6 +12,3 @@ def link
   phrase = "'It\n's Dangerous To Go Alone! Take This.'"
   puts phrase
 end
-
-def all_phrases
-  all_phrases 
